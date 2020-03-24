@@ -2,9 +2,7 @@
     display: flex;
     flex-wrap: wrap;
 }
-
-#box1
-{
+#box1{
     background-color: rgb(0, 197, 108);
     width: 70%;
     height: 80px;
@@ -23,7 +21,8 @@
     background-color: rgb(234, 114, 44);
     width: 33.3%;
     height: 80px;
-}#box5{
+}
+#box5{
     background-color: rgb(136, 155, 156);
     width: 33.4%;
     height: 80px;
